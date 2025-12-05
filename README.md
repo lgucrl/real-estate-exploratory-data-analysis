@@ -6,7 +6,7 @@ This project performs an exploratory data analysis (EDA) of the Texas residentia
 
 ## Dataset
 
-The analysis is based on the `realestate_texas.csv` dataset, which contains monthly observations in the period 2010–2014 for four Texas cities (Beaumont, Bryan–College Station, Tyler, Wichita Falls):
+The analysis is based on the `realestate_texas.csv` dataset, which contains monthly observations in the period 2010–2014 for four Texas cities (Beaumont, Bryan–College Station, Tyler, Wichita Falls).
 
 The dataset variables include:
 
