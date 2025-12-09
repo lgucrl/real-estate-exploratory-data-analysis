@@ -10,13 +10,13 @@ The analysis is based on the `realestate_texas.csv` dataset, which contains mont
 
 The dataset variables include:
 
-- `city` – city name
-- `year`, `month` – reference year and month
-- `sales` – number of property sales
-- `volume` – total value of sales (in millions of dollars)
-- `median_price` – median sale price (USD)
-- `listings` – number of active listings
-- `months_inventory` – months needed to sell all current listings
+- `city`: city name
+- `year`, `month`: reference year and month
+- `sales`: number of property sales
+- `volume`: total value of sales (in millions of dollars)
+- `median_price`: median sale price (USD)
+- `listings`: number of active listings
+- `months_inventory`: months needed to sell all current listings
 
 ## Analytical workflow
 
